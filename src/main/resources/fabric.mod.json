@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "soundlimit",
 	"version": "${version}",
-	"name": "soundlimit",
+	"name": "Soundlimit",
 	"description": "A simple mod to increase the sound limit for Minecraft",
 	"authors": [
 		"Erb3"
