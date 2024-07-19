@@ -6,9 +6,19 @@
 
 Have you wanted to play music with nine different jukeboxes at the same time?
 Me neither, but now you can.
-A simple Minecraft mod to increase the sound limit from 8 to 128. Enjoy.
+A simple Minecraft mod to increase the sound limit from 8 to 128.
 
 ## FAQ
+
+**What is a sound limit?**
+
+Minecraft imposes a limit of eight streaming sounds at the same time.
+This is not enough for some people.
+I like sounds, ok?
+
+**What is a streaming sound?**
+
+Jukeboxes, ComputerCraft speakers, etc.
 
 **Can I use this mod in my modpack?**
 
